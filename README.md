@@ -2,6 +2,8 @@
 
 Projeto do curso Welcome to the Django
 
+[![Build Status](https://travis-ci.org/gusttavoaguiarr/welcome-to-the-django.svg?branch=master)](https://travis-ci.org/gusttavoaguiarr/welcome-to-the-django)
+
 ## Como desenvolver?
 
 1. Clone o repositório.
