@@ -1,0 +1,10 @@
+ALLOWED_HOSTS=127.0.0.1, .localhost, .herokuapp.com
+DEBUG=True
+SECRET_KEY=*w_3!@2cn1gy5iddx$d0ubyjrlxft(zw)kkk$w=)t#-r7y^^tq
+
+EMAIL_BACKEND=django.core.mail.backends.console.EmailBackend
+EMAIL_HOST=localhost
+EMAIL_HOST_PASSWORD=
+EMAIL_HOST_USER=
+EMAIL_PORT=25
+EMAIL_USE_TLS=False
