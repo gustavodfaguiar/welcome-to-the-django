@@ -19,7 +19,7 @@ git clone https://github.com/gusttavoaguiarr/welcome-to-the-django welcome-to-th
 cd welcome-to-the-django
 python -m venv .wttd
 source .wttd/bin/activate
-pip install -r requeriments.txt
+pip install -r requeriments-dev.txt
 cp contrib/env-sample .env
 python manage.py test
 ```
