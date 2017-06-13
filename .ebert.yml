@@ -8,10 +8,11 @@
 ---
 styleguide: plataformatec/linters
 engines:
-  fixme:
+  duplication:
     enabled: true
-  radon:
-    enabled: true
-  remark-lint:
-    enabled: true
+    config:
+        languages:
+                python:
+   pep8:
+        enabled: true
 exclude_paths: []
