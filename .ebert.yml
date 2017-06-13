@@ -1,9 +1,9 @@
 engines:
   duplication:
     enabled: true
-    config:
+      config:
         languages:
-                python:
-   pep8:
+          python:
+  pep8:
     enabled: true
 exclude_paths: []
