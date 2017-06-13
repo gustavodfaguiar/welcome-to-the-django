@@ -1,4 +1,3 @@
-styleguide: plataformatec/linters
 engines:
   duplication:
     enabled: true
