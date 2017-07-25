@@ -1,8 +1,13 @@
 language: python
 python:
-        - "3.5"
+  - "3.5"
 install:
-        - cp contrib/env-sample .env
-        - pip install -q -r requirements.txt
+  - cp contrib/env-sample .env
+  - pip install -q -r requirements.txt
+  - pip install coveralls
+
 script:
-        - python manage.py test
+  - coverage run --source=python manage.py test
+
+after_success:
+  - coveralls

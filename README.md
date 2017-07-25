@@ -5,6 +5,8 @@ Projeto do curso Welcome to the Django
 [![Build Status](https://travis-ci.org/gusttavoaguiarr/welcome-to-the-django.svg?branch=master)](https://travis-ci.org/gusttavoaguiarr/welcome-to-the-django)
 [![Code Health](https://landscape.io/github/gusttavoaguiarr/welcome-to-the-django/master/landscape.svg?style=flat)](https://landscape.io/github/gusttavoaguiarr/welcome-to-the-django/master)
 [![Ebert](https://ebertapp.io/github/gusttavoaguiarr/welcome-to-the-django.svg)](https://ebertapp.io/github/gusttavoaguiarr/welcome-to-the-django)
+[![Coverage Status](https://coveralls.io/repos/github/gusttavoaguiarr/welcome-to-the-django/badge.svg?branch=master)](https://coveralls.io/github/gusttavoaguiarr/welcome-to-the-django?branch=master)
+
 
 ## Como desenvolver?
 
